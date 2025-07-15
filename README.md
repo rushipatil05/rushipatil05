@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Rushikesh Patil</h1>
-<h3 align="center">Software Developer | Full Stack Enthusiast | IoT Innovator</h3>
+<h3 align="center">Web Developer | AI Enthusiast</h3>
 
 ---
 
