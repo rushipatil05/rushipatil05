@@ -1,6 +1,12 @@
 <h1 align="center">Hi there 👋, I'm Rushikesh Patil</h1>
 <h3 align="center">Web Developer | AI Enthusiast | Technology Explorer</h3>
 
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rushipatil05.rushipatil05&style=flat-square" alt="Visitor Badge" />
+</p>
+
+
 ---
 
 ## 👨‍💻 About Me
