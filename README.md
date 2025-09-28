@@ -7,8 +7,11 @@
 
 ---
 
-## 👨‍💻 About Me
-I'm a passionate **Software Developer** pursuing a degree in **Information Technology (B.E.)**. I specialize in building **full-stack applications**, **IoT-based projects**, and **browser extensions** — blending practical solutions with innovative technologies. I'm always eager to learn new frameworks and tools to stay ahead in the ever-evolving tech landscape.
+## 👨‍💻 About Me  
+
+I’m a passionate **Software Developer** pursuing a **B.E. in Information Technology** at **Thakur College of Engineering and Technology, Mumbai**.  
+I specialize in building **Full-Stack Applications**, **IoT-Based Projects**, and **Secure Web Tools**, turning ideas into **practical, user-friendly solutions**.  
+I’m always eager to **learn new frameworks**, **explore emerging technologies**, and **participate in hackathons** to sharpen my skills and create impactful projects.  
 
 ---
 
