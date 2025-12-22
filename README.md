@@ -1,3 +1,9 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=250&section=header&text=Rushikesh%20Patil&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0A84FF&height=250&section=header&text=Varun%20Maurya&fontSize=60&fontColor=000000&animation=fadeIn&fontAlignY=38" />
+  </picture>
+</p>
 <h1 align="center">Hi there 👋, I'm Rushikesh Patil</h1>
 <h3 align="center">Web Developer | AI Enthusiast | Technology Explorer</h3>
 
@@ -9,9 +15,9 @@
 
 ## 👨‍💻 About Me  
 
-I’m a passionate **Software Developer** pursuing a **B.E. in Information Technology** at **Thakur College of Engineering and Technology, Mumbai**.  
-I specialize in building **Full-Stack Applications**, **IoT-Based Projects**, and **Secure Web Tools**, turning ideas into **practical, user-friendly solutions**.  
-I’m always eager to **learn new frameworks**, **explore emerging technologies**, and **participate in hackathons** to sharpen my skills and create impactful projects.  
+I’m a passionate Software Developer currently pursuing a **B.E. in Information Technology** at **Thakur College of Engineering and Technology, Mumbai**. I enjoy building **full-stack applications** and turning ideas into **practical, user-friendly solutions**.
+
+I’m always curious to learn **new frameworks**, explore **emerging technologies**, and take part in **hackathons** that help me sharpen my skills and build impactful projects.
 
 ---
 
@@ -29,7 +35,6 @@ I’m always eager to **learn new frameworks**, **explore emerging technologies*
 **Languages:**  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 **Frameworks & Tools:**  
 - **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS  
@@ -39,9 +44,14 @@ I’m always eager to **learn new frameworks**, **explore emerging technologies*
 ---
 
 ## 📌 Featured Projects
-- 🔒 **Password Manager App** — Securely save and manage passwords  
-- 🌱 **IoT-Based Hydroponic Farm** — Automated home farming with sensors and a mobile app  
-- 🎵 **Website for Pandit Murli Manohar Shukla** — A PHP-based site showcasing albums, biography, concert schedules, and media gallery
+
+### 🔐 CryptaKey  
+A secure credential manager built with the MERN stack. It supports JWT-based authentication and lets users easily add, search, view, and delete credentials. Designed with a modern, responsive UI using React and Tailwind CSS.  
+https://cryptakey.vercel.app
+
+### 🧠 CosMind  
+A mental wellness platform built using React and Tailwind CSS. It features appointment booking with receipts and a Watch & Learn section with short videos, focusing on a calm and user-friendly experience.  
+https://cosminds.vercel.app
 
 ---
 
@@ -66,4 +76,9 @@ I’m always eager to **learn new frameworks**, **explore emerging technologies*
   <a href="mailto:rushipatil12448@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+</p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=150&section=footer" />
 </p>
