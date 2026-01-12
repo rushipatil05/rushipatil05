@@ -24,9 +24,21 @@ I’m always curious to learn **new frameworks**, explore **emerging technologie
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rushipatil05&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushipatil05&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+
+  <img
+    src="https://github-readme-stats-mauve-iota-88.vercel.app/api?username=rushipatil05&show_icons=true&theme=github_dark"
+    height="180"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats-mauve-iota-88.vercel.app/api/top-langs/?username=rushipatil05&layout=compact&theme=github_dark"
+    height="160"
+    alt="Top Languages"
+  />
+
 </div>
+
 
 ---
 
