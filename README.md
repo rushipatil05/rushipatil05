@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=250&section=header&text=Rushikesh%20Patil&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0A84FF&height=250&section=header&text=Varun%20Maurya&fontSize=60&fontColor=000000&animation=fadeIn&fontAlignY=38" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0A84FF&height=250&section=header&text= Rushikesh%20Patil&fontSize=60&fontColor=000000&animation=fadeIn&fontAlignY=38" />
   </picture>
 </p>
 <h1 align="center">Hi there 👋, I'm Rushikesh Patil</h1>
